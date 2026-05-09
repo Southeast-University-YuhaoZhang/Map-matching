@@ -1,4 +1,3 @@
-<img width="1256" height="722" alt="4e0fbc0c-362d-4883-899f-35072c754afa" src="https://github.com/user-attachments/assets/9e719411-4b4a-4779-856f-3f9aefba00a7" />Map-matching/
 
 ├── fmm/
 
