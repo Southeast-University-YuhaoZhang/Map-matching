@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.15)
+project(map_match LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+if (MSVC)
+  add_compile_options("/utf-8")
+endif()
+add_executable(map_match main.cpp)
